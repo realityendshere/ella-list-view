@@ -1,0 +1,22 @@
+body, html {
+  height: 100%;
+  overflow: hidden;
+}
+
+.controls {
+  position: absolute;
+  top: 0;
+  line-height: 40px;
+  left: 0;
+  right: 0;
+}
+
+.things-listing {
+  position: absolute;
+  top: 40px;
+  left: 40px;
+  right: 40px;
+  bottom: 40px;
+  border: 1px solid gray;
+  overflow: auto;
+}
