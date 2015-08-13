@@ -1,7 +1,7 @@
 {
   "name": "ella-list-view",
   "version": "0.0.1",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "List and grid views that recycle list item instances to create the illusion of displaying a seemingly infinite number of items.",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -37,6 +37,8 @@
     "ember-addon",
     "emberella",
     "ella",
+    "list",
+    "grid",
     "list view",
     "grid view"
   ],

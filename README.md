@@ -1,25 +1,8 @@
-# Ella-list-view
+# Emberella List Views...
 
-This README outlines the details of collaborating on this Ember addon.
+...are no longer maintained. They use design patterns that do not work very
+nicely with Ember v1.13 and v2.0.
 
-## Installation
+Please take a look at Ember List Component (in development) instead: https://github.com/realityendshere/ella-list-component
 
-* `git clone` this repository
-* `npm install`
-* `bower install`
-
-## Running
-
-* `ember server`
-* Visit your app at http://localhost:4200.
-
-## Running Tests
-
-* `ember test`
-* `ember test --server`
-
-## Building
-
-* `ember build`
-
-For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
+It provides a lot of the same functionality as Ember components.
